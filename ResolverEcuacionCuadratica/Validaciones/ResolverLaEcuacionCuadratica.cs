@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ResolverEcuacionCuadratica
 {
-    class ResolverLaEcuacionCuadratica
+    public class ResolverLaEcuacionCuadratica
     {
         CalcularDiscriminanante accionCalcularDiscriminante;
         ValidadDiscriminante ValidarDiscriminante;
