@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ResolverEcuacionCuadratica
 {
-    class ValidadDiscriminante
+    public class ValidadDiscriminante
     {
 
         public bool ValidadElDiscriminanteMayorqueCero(double discriminante)
